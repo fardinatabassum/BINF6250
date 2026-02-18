@@ -1,0 +1,24 @@
+# --- Genomic & Alignment Data ---
+# Ignores the heavy data files in your project folder
+project03/data
+
+# --- Python & Environment ---
+# Keeps your local environment out of the cloud
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter Notebooks ---
+# Ignores those redundant autosave files
+.ipynb_checkpoints/
+
+# --- IDEs (PyCharm / VS Code) ---
+# Prevents sharing your personal editor settings
+.idea/
+.vscode/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
